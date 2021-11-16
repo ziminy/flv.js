@@ -1,7 +1,7 @@
 
-修复：
+##修复：
 1.Failed to execute 'appendBuffer' on 'SourceBuffer': This SourceBuffer has been removed from the parent media source
-======
+
 flv.js  [![npm](https://img.shields.io/npm/v/flv.js.svg?style=flat)](https://www.npmjs.com/package/flv.js)
 ======
 An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash. LONG LIVE FLV!
